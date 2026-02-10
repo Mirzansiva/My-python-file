@@ -1,0 +1,10 @@
+line1 = "--------------------"
+a = "Student Information"
+line2 = "--------------------"
+sid = 20250169
+sname = "Mirzan"
+sgrade = "YARL IT"
+NIC = 2008
+line3 = "--------------------"
+line4 = "--------------------"
+Output = "{0}\n{1}\n{2}\nStudent id is :{3} \nStudent  name is :{4} \nStudent institute name :{5} \nNIC No :{6} \n{7}".format(line1,a,line2,sid,sname,sgrade,NIC,line3)
