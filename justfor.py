@@ -1,0 +1,5 @@
+name = str(input("Enter your name :"))
+print(name)
+print("We have to study more and more over")
+marks = int(input("Enter your marks"))
+print(marks)
